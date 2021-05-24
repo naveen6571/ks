@@ -7,7 +7,7 @@
 
 <body bgcolor="#07EED9">
 <center>
-<h1> <font color="#EE0769"> LUV U Soo Much "Bujji"....ummaaa kavali  </font> </h1>
+<h1> <font color="#EE0769"> OPERATION D for DEVOPS is SUCCESS   </font> </h1>
 </center>	
 </body>
 </html>
