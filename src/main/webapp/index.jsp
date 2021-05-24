@@ -7,7 +7,7 @@
 
 <body bgcolor="#07EED9">
 <center>
-<h1> <font color="#328c00"> OPERATION D for DEV-OPS is SUCCESS  </font> </h1>
+<h1> <font color="#EE0769"> LUV U Soo Much "Bujji"  </font> </h1>
 </center>	
 </body>
 </html>
