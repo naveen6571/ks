@@ -7,7 +7,7 @@
 
 <body bgcolor="#ffce00">
 <center>
-<h6> <font color="#328c00"> OPERATION D for DEV-OPS is SUCCESS  </font> </h6>
+<h1> <font color="#328c00"> OPERATION D for DEV-OPS is SUCCESS  </font> </h1>
 </center>	
 </body>
 </html>
