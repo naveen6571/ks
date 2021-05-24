@@ -7,7 +7,7 @@
 
 <body bgcolor="#ffce00">
 <center>
-<h2> <font color="#328c00"> New devops Project deployment  </font> </h2>
+<h2> <font color="#328c00"> OPERATION D FOR DEV-OPS SUCCESS  </font> </h2>
 </center>	
 </body>
 </html>
